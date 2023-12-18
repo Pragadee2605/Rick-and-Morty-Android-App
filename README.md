@@ -27,5 +27,5 @@ This Kotlin interface named RickApi declares a single method named getDetails, a
 
 Step 5: Design layout Files
 Go to the 'app' directory, then navigate to 'res' > 'layout' > 'activity_main.xml'. Insert the provided code snippet into that XML file.     
-Step 6: Create an Adapter class for RecyclerView
+Step 6: Create an Adapter class for RecyclerView    
 Step 7: Implement MainActivity.kt file
