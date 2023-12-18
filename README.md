@@ -1,5 +1,5 @@
 # Rick-and-Morty-Android-App
-Step 1: Create a New Project in Android Studio
+Step 1: Create a New Project in Android Studio     
 Step 2: Add these dependencies in Build.gradle(app) file
 // retrofit
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
