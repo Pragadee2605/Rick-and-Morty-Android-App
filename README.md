@@ -26,6 +26,6 @@ Step 4: Create API interface and retrofit instance
 This Kotlin interface named RickApi declares a single method named getDetails, annotated with @GET. The annotation indicates that the method is intended to execute an HTTP GET request to the designated endpoint, which, in this instance, is set to 'character
 
 Step 5: Design layout Files
-Go to the 'app' directory, then navigate to 'res' > 'layout' > 'activity_main.xml'. Insert the provided code snippet into that XML file.
+Go to the 'app' directory, then navigate to 'res' > 'layout' > 'activity_main.xml'. Insert the provided code snippet into that XML file.     
 Step 6: Create an Adapter class for RecyclerView
 Step 7: Implement MainActivity.kt file
